@@ -1,4 +1,4 @@
-# Elements of Software Design
+## Elements of Software Design
 
 This is a series of interactive notebooks that are used for teaching software design and more specifically concurrent system design at McMaster University. The accompanying assignments and tests are not part of this repository. A novel aspect is the use of state diagrams for teaching concurrency, including the non-interference, see:
 
@@ -6,11 +6,11 @@ This is a series of interactive notebooks that are used for teaching software de
 
 The course notes are being constantly revised; comments are welcome. See my [home page](http://www.cas.mcmaster.ca/~emil/) for the latest installments of the courses using these notes. Of course, I would love to hear if you plan to use these notes for courses or otherwise.
 
-Most images are cell attachments, which are not rendered by GitHub, rather than linked files, which are rendered, but not in the correct size. To view the notebooks properly, follow the instructions below.
+Most images are cell attachments, which are not rendered by GitHub. Images that are linked files are rendered, but not in the correct size. To view the notebooks properly, follow the instructions below.
 
 -- Emil Sekerinski
 
-## Installation
+### Installation
 
 You need [Python 3](https://www.python.org/downloads/). Update `pip3` or `pip`, depending on your installation:
 
